@@ -1,0 +1,12 @@
+uvicorn==0.21.1
+fastapi==0.95.0
+sqlmodel==0.0.8
+alembic==1.10.2
+asyncpg==0.26.0
+logger==1.4
+passlib==1.7.4
+PyJWT==2.6.0
+greenlet==2.0.2
+pytest==7.2.2
+pytest_asyncio==0.21.0
+httpx==0.23.3
